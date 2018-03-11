@@ -19,12 +19,14 @@ li{
     font:normal bold 15px "Comic Sans MS";}
 
 li a{text-decoration:none;
+    color:#660066;
 }
 
 #list img{
     width:80px;
     height:60px;
 }
+
 
 #wallpaper img{
     width:100%;
@@ -64,10 +66,13 @@ li a{text-decoration:none;
     word-spacing:3px;
     letter-spacing:3px;
     background:#E8E8E8;
+
     }
 
 #insta a{ text-decoration:none;
-    background:#E8E8E8}
+    background:#E8E8E8;
+    color:#660066;
+}
 
 .rslides {
   position: relative;
@@ -111,7 +116,9 @@ li a{text-decoration:none;
     background:#E8E8E8;
     }
 
-#fb a{ text-decoration:none;}
+#fb a{ text-decoration:none;
+       color:#660066;
+}
 
 #cover img{
     display:inline-block;
@@ -126,7 +133,7 @@ li a{text-decoration:none;
     }
 #adv p{
     padding: 10px 0px 0px 10px;
-    color:#660099;
+    color:#660066;
     font-size:20px;
     font-weight:bold;
     text-align:center;
@@ -169,13 +176,13 @@ li a{text-decoration:none;
 #bottomlist{
     text-align:center;
     margin:10px;
-    color:#606060;
+    color:#660066;
 
     }
 
 #bottomlist a:visited{
     color: #606060;
-    text decoration:none;}
+    text-decoration:none;}
 
 
 #foot{

@@ -17,9 +17,10 @@ var ReviewComp = React.createClass({
 
   <p> {this.props.time} </p>
   <span>
-  <input type="text" placeholder="Enter the review"/>
+  <input type="text" placeholder="Enter your name"/>
   <input type="text" placeholder="Enter the review"/>
   <button type="submit" onClick={this.handleSubmit}>Submit </button>
+  <br/>
 </span>
  </div>
  );
